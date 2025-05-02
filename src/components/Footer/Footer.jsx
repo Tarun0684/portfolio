@@ -1,9 +1,9 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+
 
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-white p-4 mt-8 w-full fixed bottom-0 left-0 z-10 shadow-md">
+    <footer className="bg-gray-800 text-white p-4 mt-8 w-full   fixed bottom-0 left-0 z-10 shadow-md">
       <div className="container mx-auto text-center">
         <p className="mb-2">© {new Date().getFullYear()} Tarun Karnwal. All rights reserved.</p>
         <div className="flex justify-center space-x-4">

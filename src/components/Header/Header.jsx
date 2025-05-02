@@ -7,7 +7,7 @@ function Header() {
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold">Tarun Karnwal</h1>
         <nav>
-          <ul className="flex space-x-20">
+          <ul className="flex space-x-4">
             <li>
               <Link to="/" className="hover:text-blue-400">Home</Link>
             </li>

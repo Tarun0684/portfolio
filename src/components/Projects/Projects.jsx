@@ -6,7 +6,7 @@ const projects = [
     {
       title: 'Portfolio',
       description: 'A modern and responsive portfolio website. This site showcases my projects, skills, and background as a web developer. It features a clean design, smooth navigation, and sections including About Me, Projects, Skills, and Contact. The goal is to present my work and experience in a clear and engaging way while highlighting my frontend development abilities with a focus on performance and user experience.',
-      link: 'https://github.com/yourusername/project-three',
+      link: 'https://github.com/Tarun0684/portfolio',
     },
     {
       title: 'Password Generator',
