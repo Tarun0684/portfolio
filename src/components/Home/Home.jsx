@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
@@ -22,12 +23,12 @@ function Home() {
           <p className="text-base md:text-lg text-gray-600 mb-4 md:mb-6">
             I'm a passionate Software Engineer/Front-End Developer/Web Developer/UI/UX Designer, focused on building fast, responsive, and user-friendly web applications. I specialize in technologies like React, JavaScript, TailwindCSS, and modern development tools like Vite.
           </p>
-          <a 
-            href="http://localhost:5173/projects"
+          <Link 
+            to="/projects"
             className="inline-block bg-blue-600 text-white px-4 md:px-6 py-2 rounded hover:bg-blue-700 transition"
           >
             View Projects
-          </a>
+          </Link>
         </div>
       </div>
     </div>
