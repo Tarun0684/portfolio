@@ -6,7 +6,7 @@ function About() {
     <div className="min-h-screen bg-white text-gray-800 px-6 py-20" >
       <h2 className="text-4xl font-bold text-gray-800 mb-4">About Me</h2>
       <p className="text-lg text-gray-600 mb-4">
-      I'm Tarun Karnwal, a dedicated and creative Software Engineer/Front-End Developer/Web Developer/UI/UX Designer with a passion for crafting clean, efficient, and accessible web experiences. I enjoy turning ideas into reality using modern technologies like React, JavaScript, TailwindCSS, and tools like Vite.
+      Hello My Name is Tarun Karnwal 
 
 
       </p>
