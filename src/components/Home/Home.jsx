@@ -21,7 +21,10 @@ function Home() {
           Hi, I'm Tarun Karnwal
           </h1>
           <p className="text-base md:text-lg text-gray-600 mb-4 md:mb-6">
-            I'm a passionate Software Engineer/Front-End Developer/Web Developer/UI/UX Designer, focused on building fast, responsive, and user-friendly web applications. I specialize in technologies like React, JavaScript, TailwindCSS, and modern development tools like Vite.
+            Currently pursuing an MBA with a background in Engineering, complemented by strong skills in frontend
+development, problem-solving, and Agile team collaboration. Focused on delivering innovative, user-centric
+web solutions by integrating technical expertise with strategic insight Education.
+
           </p>
           <Link 
             to="/projects"
