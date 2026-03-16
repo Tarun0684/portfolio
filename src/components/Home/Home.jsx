@@ -17,13 +17,15 @@ function Home() {
 
         {/* Right Side - Summary Text */}
         <div className="w-full md:w-1/2 h-full flex flex-col items-center justify-center text-center px-4">
-          <h1 className="text-xl md:text-4xl font-bold mb-4 text-gray-800">
+          <h1 className="text-xl md:text-2xl font-bold mb-4 text-gray-800">
           Hi, I'm Tarun Karnwal
           </h1>
+          <h1 className="text-xl md:text-4xl font-bold mb-4 text-gray-800">
+         MBA Candidate (Business Analytics & Marketing) | B.Tech CSE | Aspiring Data Analyst
+            Data Analysis | Excel | SPSS | SQL | Power BI | Problem Solving
+          </h1>
           <p className="text-base md:text-lg text-gray-600 mb-4 md:mb-6">
-            Currently pursuing an MBA with a background in Engineering, complemented by strong skills in frontend
-development, problem-solving, and Agile team collaboration. Focused on delivering innovative, user-centric
-web solutions by integrating technical expertise with strategic insight Education.
+           MBA candidate with a background in Computer Science Engineering, passionate about data analysis and problem-solving. Skilled in transforming data into meaningful insights to support better business decisions.
 
           </p>
           <Link 
