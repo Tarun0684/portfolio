@@ -20,6 +20,7 @@ function Home() {
           <h1 className="text-xl md:text-2xl font-bold mb-4 text-gray-800">
           Hi, I'm Tarun Karnwal
           </h1>
+          <br />
           <h1 className="text-xl md:text-xl font-bold mb-4 text-gray-800">
          MBA Candidate (Business Analytics & Marketing) | B.Tech CSE | Aspiring Data Analyst
             Data Analysis | Excel | SPSS | SQL | Power BI | Problem Solving
