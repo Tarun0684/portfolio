@@ -17,7 +17,7 @@ function Home() {
 
         {/* Right Side - Summary Text */}
         <div className="w-full md:w-1/2 h-full flex flex-col items-center justify-center text-center px-4">
-          <h1 className="text-xl md:text-2xl font-bold mb-4 text-gray-800">
+          <h1 className="text-xl md:text-2xl font-bold mb-4 text-gray-600">
           Hi, I'm Tarun Karnwal
           </h1>
           
