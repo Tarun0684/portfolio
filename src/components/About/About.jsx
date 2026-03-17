@@ -5,9 +5,9 @@ function About() {
   return (
     <div className="min-h-screen bg-white text-gray-800 px-6 py-20" >
       <h2 className="text-4xl font-bold text-gray-800 mb-4">About Me</h2>
-      <p className="text-lg text-gray-600 mb-4">
+      <p className="text-lg font-bold text-gray-600 mb-4">
      MBA Candidate (Business Analytics & Marketing) | B.Tech CSE | Aspiring Data Analyst
-        <br/>
+        <br />
 Data Analysis | Excel | SPSS | SQL | Power BI | Problem Solving
 
 
